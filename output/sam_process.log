@@ -1,0 +1,6 @@
+2025-07-17 20:41:47,522 [INFO] Loading SAM model...
+2025-07-17 20:41:52,351 [INFO] Reading image C:/Users/sahil/Downloads/fridge image (2).jpg
+2025-07-17 20:41:52,380 [INFO] Generating masks...
+2025-07-17 20:43:38,630 [INFO] Enhancing masks by area >= 1000 and top_k=60
+2025-07-17 20:43:38,652 [INFO] Saving 60 masks -> C:\Users\sahil\Desktop\Meal_final\output\fridge image (2)
+2025-07-17 20:43:41,158 [INFO] Done.

@@ -1,0 +1,8 @@
+{
+    "hf_model": "meta-llama/Llama-3.1-8B-Instruct",
+    "hf_provider": "auto",
+    "hf_token": "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",
+    "prompt_template": "From the description below, return the most specific food item(s) mentioned. You may list multiple items if applicable, separated by commas. Do not add any extra text—just the food names.\n\nDescription:\n{content}",
+    "input_json_path": "C:\\Users\\sahil\\Desktop\\Meal_final\\crops\\lens_output.json",
+    "output_json_path": "C:\\Users\\sahil\\Desktop\\Meal_final\\crops\\lm_output.json"
+}
